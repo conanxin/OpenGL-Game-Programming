@@ -7,5 +7,7 @@ The Code For [Beginning OpenGL Game Programming](http://book.douban.com/subject/
 
 ##[Chapter 2](http://blog.163.com/hailin_xin/blog/static/218162190201392613029651/)
 
+##[Chapter 3](http://blog.163.com/hailin_xin/blog/static/218162190201392665717497/)
+
 
 
